@@ -1,5 +1,5 @@
 USAGES: 
-1. Install all  the dependencies
+1. Install all  the dependencies in requirements.txt
 2. In command terminal --> streamlit run main.py 
 
 🌍 Project Overview
