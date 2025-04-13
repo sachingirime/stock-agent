@@ -5,7 +5,7 @@ USAGES:
 🌍 Project Overview
 The stock market is complex, dynamic, and fast-paced. As someone passionate about both finance and artificial intelligence, I decided to build an intelligent stock trading assistant powered by machine learning and reinforcement learning (RL). The result? A live, interactive dashboard that simulates stock trading strategies and visualizes insights in real time. You can also train your own model with whatever parameters you provide and do the inference.
 
-📊 Live demo: predictpp.streamlit.app
+📊 Live demo: https://predictpp.streamlit.app/
 
 ✨ Features at a Glance
 ✅ Real-time stock data from Yahoo Finance (via yfinance)
