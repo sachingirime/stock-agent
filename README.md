@@ -1,2 +1,2 @@
 run - after installing all the dependencies
-streamlit run main.py
+--->> streamlit run main.py
