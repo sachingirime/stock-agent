@@ -1,6 +1,6 @@
-USAGES: \n
+USAGES: 
 1. Install all  the dependencies
-2. In command terminal --> streamlit run main.py \n
+2. In command terminal --> streamlit run main.py 
 
 🌍 Project Overview
 The stock market is complex, dynamic, and fast-paced. As someone passionate about both finance and artificial intelligence, I decided to build an intelligent stock trading assistant powered by machine learning and reinforcement learning (RL). The result? A live, interactive dashboard that simulates stock trading strategies and visualizes insights in real time. You can also train your own model with whatever parameters you provide and do the inference.
